@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22225" systemVersion="23B74" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="SubModel" representedClassName="SubModel" syncable="YES" codeGenerationType="class">
+        <attribute name="paymentDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="selectedUser" optional="YES" attributeType="String"/>
+        <attribute name="startDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="subDescription" optional="YES" attributeType="String"/>
+        <attribute name="subName" optional="YES" attributeType="String"/>
+        <attribute name="subPrice" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="subTrialPeriod" optional="YES" attributeType="String"/>
+        <attribute name="subType" optional="YES" attributeType="String"/>
+    </entity>
+</model>
